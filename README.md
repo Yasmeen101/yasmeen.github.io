@@ -1,6 +1,6 @@
 # Data Science and Analytics
 
-## About Me
+### About Me
 Hello! Thanks for taking the time to view my portfolio!
 
 A bit about myself - My name is Yasmeen, and I am currently working as a Data Analyst at one of the world’s top consulting firms. I hold a B.A. (Hons) in Accounting and a PgCert. in Operational Research, Applied Statistics and Financial Risk. 
@@ -11,13 +11,13 @@ I am amazed by the rapid advancements in the Machine Learning field, which have 
 
 This portfolio details the projects I've pursued outside of work to broaden my knowledge within the Data Science and Machine Learning field. It serves as a space to document my ongoing learning journey, so I welcome any scrutiny and constructive feedback. Please don't hesitate to reach out to me using the contact form below.
 
-## Education
+### Education
 - PgCert. Operational Research, Applied Statistics and Financial Risk
 - B.A. (Hons) Accounting
 
-## Work Experience
-### Senior Data Analyst | Boston Consulting Group (January 2024 - Present)
-### Data Analyst (March 2022 – December 2023)
+### Work Experience
+#### Senior Data Analyst | Boston Consulting Group (January 2024 - Present)
+#### Data Analyst | Boston Consulting Group (March 2022 – December 2023)
 - Utilising SQL for data querying, ensuring efficient access to large PSG datasets within Snowflake.
 - Using Microsoft Excel, Alteryx and Tableau Prep for data preparation, enabling effective analysis of the impact of compensation and equity transactions across different geographies.
 - Building and reviewing models, reports and dashboard visualisations to address MDP needs and help leadership uncover patterns and trends to drive a more informed decision-making process.
