@@ -12,28 +12,20 @@ I am amazed by the rapid advancements in the Machine Learning field, which have 
 This portfolio details the projects I've pursued outside of work to broaden my knowledge within the Data Science and Machine Learning field. It serves as a space to document my ongoing learning journey, so I welcome any scrutiny and constructive feedback. Please don't hesitate to reach out to me using the contact form below.
 
 ## Education
-- PgCert., Operational Research, Applied Statistics and Financial Risk | Cardiff University (_June 2023_)
-- B.A., Accounting | Cardiff Metropolitan University (_September 2017_)
+- PgCert., Operational Research, Applied Statistics and Financial Risk (_June 2023_)
+- B.A., Accounting (_September 2017_)
 
 ## Work Experience
-**Senior Data Analyst @ Boston Consulting Group (_January 2024 - Present_)**
+**Senior Data Analyst (_January 2024 - Present_)**
 <br>**Data Analyst (_March 2022 – December 2023_)**
-- Utilising SQL for data querying, ensuring efficient access to large PSG datasets within Snowflake.
+- Utilising SQL for data querying, ensuring efficient access to large datasets within Snowflake.
 - Using Microsoft Excel, Alteryx and Tableau Prep for data preparation, enabling effective analysis of the impact of compensation and equity transactions across different geographies.
 - Building and reviewing models, reports and dashboard visualisations to address MDP needs and help leadership uncover patterns and trends to drive a more informed decision-making process.
 - Responsibility for the accuracy and completeness of MDP scenario projections and ensuring all adjustments are recorded in accordance with specific country and program parameters.
 - Developing and implementing solutions that automate recurring processes using Python.
 - Engaging with multiple teams across different time zones to continuously support data transformation activities such as data cleansing, wrangling and validation.
-- Leading BCG teaming efforts as a Teaming@BCG champion, dedicated to improving teamwork,bonding and collaboration.
-- Mentoring junior analysts to assist digital upskilling efforts across the wider PSG team.
+- Leading teaming efforts as a teaming champion, dedicated to improving teamwork,bonding and collaboration.
+- Mentoring junior analysts to assist digital upskilling efforts across the wider team.
 
-**Finance Analyst (Project Controller) @ Deloitte Consulting (_January 2021 – February 2022_)**
-- Providing engagement financial support to Deloitte consulting project managers, directors and partners.
-- Supporting the creation of WBS codes for new client projects, completing necessary procedures and set up of new engagement/client records in SAP.
-- Calculating client billing amounts, performing financial analysis and producing a variety of reports as required.
-- Ensuring compliance and contractual requirements are met and maintained throughout the duration of a client engagement.
-- Assisting transactional activities for PCG teams based in London, Cardiff and Belfast.
-- Supporting engagement closedown procedures, such as producing final bills and archiving.
-
-### Projects
+## Projects
 [Title](https://yasmeen-portfolio.squarespace.com/)
