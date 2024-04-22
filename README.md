@@ -17,7 +17,7 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 <hr style="border:2px solid gray">
 ## Technical Skillset
 - Python
-- SQL (MySQL Workbench)
+- SQL (MySQL Workbench, Snowflake)
 - R (+Shiny) 
 - Tableau Desktop (+Prep)
 - Alteryx Designer
