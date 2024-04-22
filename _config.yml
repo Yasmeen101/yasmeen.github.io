@@ -1,25 +1,20 @@
 title: Yasmeen
 logo: /assets/img/IMG-20230719-WA0254-CR.jpg
-description: Data Analysis | Data Science | Machine Learning
-
-<hr style="border:2px solid gray">
+description: Data Analysis | Data Science | Machine Learning | Data Visualization
 
 Education
-**PgCert., Operational Research, Applied Stats. and Financial Risk (_2023_)**
+PgCert., Operational Research, Applied Stats. and Financial Risk (2023)
 - Statistics & Data Science (R)
 - Computational Methods (Python)
 - Time Series Forecasting (R)
 - Statistical Programming (R)
 - Credit Risk Scoring (Excel & R)
 
-**B.A., Accounting (_2017_)**
-
-<hr style="border:2px solid gray">
+B.A., Accounting (2017)
 
 Certifications
-- Tableau Desktop Certified (_2023_)
-- Alteryx Designer Core Certified (_2023_)
-<hr style="border:2px solid gray">
+- Tableau Desktop Certified (2023)
+- Alteryx Designer Core Certified (2023)
 
 Technical Skillset
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -28,11 +23,10 @@ Technical Skillset
 - Tableau Desktop (+Prep)
 - Alteryx Designer
 - Microsoft Excel
-<hr style="border:2px solid gray">
 
 Work Experience
-**Senior Data Analyst (_Jan 2024 - Present_)**
-<br>**Data Analyst (_Mar 2022 – Dec 2023_)**
+Senior Data Analyst (Jan 2024 - Present)
+Data Analyst (Mar 2022 – Dec 2023)
 
 show_download: true
 theme: jekyll-theme-minimal
