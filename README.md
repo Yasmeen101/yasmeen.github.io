@@ -1,5 +1,3 @@
-# Data Science and Analytics
-
 ## About Me
 Hello! Thanks for taking the time to view my portfolio!
 
