@@ -11,12 +11,12 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 
 <hr style="border:2px solid gray">
 ## Certifications
-- Tableau Desktop Certified (_2023_)
-- Alteryx Designer Core Certified (_2023_)
+- Tableau Desktop Certified (2023)
+- Alteryx Designer Core Certified (2023)
 
 <hr style="border:2px solid gray">
 ## Technical Skillset
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python
 - SQL (MySQL Workbench)
 - R (+Shiny) 
 - Tableau Desktop (+Prep)
