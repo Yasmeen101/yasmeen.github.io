@@ -10,7 +10,7 @@ Through my postgraduate studies, I have developed a great interest in the field 
 I am amazed by the rapid advancements in the Machine Learning field, which have already revolutionized our daily lives. It’s such a fascinating time and I am eager to contribute to this ever-changing landscape, aiming to make impactful innovations that benefit society as a whole.
 
 This portfolio details the projects I've pursued outside of work to broaden my knowledge within the Data Science and Machine Learning field. It serves as a space to document my ongoing learning journey, so I welcome any scrutiny and constructive feedback. Please don't hesitate to reach out to me using the contact form below.
-
+-----------------------------------------------------------------------------
 ## Education
 **PgCert., Operational Research, Applied Stats. and Financial Risk (_2023_)**
 - Statistics & Data Science (R)
@@ -20,11 +20,11 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 - Credit Risk Scoring (Excel & R)
 
 **B.A., Accounting (_2017_)**
-
+-----------------------------------------------------------------------------
 ## Certifications
-**Tableau Desktop Certified (_2023_)**
-<br>**Alteryx Designer Core Certified (_2023_)**
-
+- Tableau Desktop Certified (_2023_)
+- Alteryx Designer Core Certified (_2023_)
+-----------------------------------------------------------------------------
 ## Technical Skillset
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL (MySQL Workbench)
@@ -32,7 +32,7 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 - Tableau Desktop (+Prep)
 - Alteryx Designer
 - Microsoft Excel
-
+-----------------------------------------------------------------------------
 ## Work Experience
 **Senior Data Analyst (_Jan 2024 - Present_)**
 <br>**Data Analyst (_Mar 2022 – Dec 2023_)**
@@ -44,6 +44,6 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 - Engaging with multiple teams across different time zones to continuously support data transformation activities such as data cleansing, wrangling and validation.
 - Leading teaming efforts as a teaming champion, dedicated to improving teamwork,bonding and collaboration.
 - Mentoring junior analysts to assist digital upskilling efforts across the wider team.
-
+-----------------------------------------------------------------------------
 ## Projects
 [Title](https://yasmeen-portfolio.squarespace.com/)
