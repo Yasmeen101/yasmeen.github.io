@@ -16,8 +16,8 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 - B.A., Accounting | Cardiff Metropolitan University (_September 2017_)
 
 ## Work Experience
-**Senior Data Analyst | Boston Consulting Group (_January 2024 - Present_)**
-<br>**Data Analyst | Boston Consulting Group (_March 2022 – December 2023_)**
+**Senior Data Analyst @ Boston Consulting Group (_January 2024 - Present_)**
+<br>**Data Analyst (_March 2022 – December 2023_)**
 - Utilising SQL for data querying, ensuring efficient access to large PSG datasets within Snowflake.
 - Using Microsoft Excel, Alteryx and Tableau Prep for data preparation, enabling effective analysis of the impact of compensation and equity transactions across different geographies.
 - Building and reviewing models, reports and dashboard visualisations to address MDP needs and help leadership uncover patterns and trends to drive a more informed decision-making process.
@@ -27,7 +27,7 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 - Leading BCG teaming efforts as a Teaming@BCG champion, dedicated to improving teamwork,bonding and collaboration.
 - Mentoring junior analysts to assist digital upskilling efforts across the wider PSG team.
 
-**Finance Analyst (Project Controller) | Deloitte MCS (_January 2021 – February 2022_)**
+**Finance Analyst (Project Controller) @ Deloitte Consulting (_January 2021 – February 2022_)**
 - Providing engagement financial support to Deloitte consulting project managers, directors and partners.
 - Supporting the creation of WBS codes for new client projects, completing necessary procedures and set up of new engagement/client records in SAP.
 - Calculating client billing amounts, performing financial analysis and producing a variety of reports as required.
