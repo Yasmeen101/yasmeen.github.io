@@ -17,7 +17,7 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 
 ## Work Experience
 **Senior Data Analyst | Boston Consulting Group (_January 2024 - Present_)**
-**Data Analyst | Boston Consulting Group (_March 2022 – December 2023_)**
+<br>**Data Analyst | Boston Consulting Group (_March 2022 – December 2023_)**
 - Utilising SQL for data querying, ensuring efficient access to large PSG datasets within Snowflake.
 - Using Microsoft Excel, Alteryx and Tableau Prep for data preparation, enabling effective analysis of the impact of compensation and equity transactions across different geographies.
 - Building and reviewing models, reports and dashboard visualisations to address MDP needs and help leadership uncover patterns and trends to drive a more informed decision-making process.
