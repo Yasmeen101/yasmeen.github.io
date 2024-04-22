@@ -12,12 +12,12 @@ I am amazed by the rapid advancements in the Machine Learning field, which have 
 This portfolio details the projects I've pursued outside of work to broaden my knowledge within the Data Science and Machine Learning field. It serves as a space to document my ongoing learning journey, so I welcome any scrutiny and constructive feedback. Please don't hesitate to reach out to me using the contact form below.
 
 ## Education
-- PgCert., Operational Research, Applied Statistics and Financial Risk (_June 2023_)
-- B.A., Accounting (_September 2017_)
+<br> PgCert., Operational Research, Applied Statistics and Financial Risk (_Jun 2023_)
+<br> B.A., Accounting (_Sep 2017_)
 
 ## Work Experience
-**Senior Data Analyst (_January 2024 - Present_)**
-<br>**Data Analyst (_March 2022 – December 2023_)**
+**Senior Data Analyst (_Jan 2024 - Present_)**
+<br>**Data Analyst (_Mar 2022 – Dec 2023_)**
 - Utilising SQL for data querying, ensuring efficient access to large datasets within Snowflake.
 - Using Microsoft Excel, Alteryx and Tableau Prep for data preparation, enabling effective analysis of the impact of compensation and equity transactions across different geographies.
 - Building and reviewing models, reports and dashboard visualisations to address MDP needs and help leadership uncover patterns and trends to drive a more informed decision-making process.
