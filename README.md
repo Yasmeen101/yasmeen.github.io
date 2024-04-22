@@ -36,4 +36,4 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 - Supporting engagement closedown procedures, such as producing final bills and archiving.
 
 ### Projects
-[Link Title](www.yasmeen-portfolio.squarespace.com)
+[Title](https://yasmeen-portfolio.squarespace.com/)
