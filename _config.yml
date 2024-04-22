@@ -1,32 +1,5 @@
-title: Yasmeen
+title: Yasmeen101.github.io
 logo: /assets/img/IMG-20230719-WA0254-CR.jpg
 description: Data Analysis | Data Science | Machine Learning | Data Visualization
-
-Education
-PgCert., Operational Research, Applied Stats. and Financial Risk (2023)
-- Statistics & Data Science (R)
-- Computational Methods (Python)
-- Time Series Forecasting (R)
-- Statistical Programming (R)
-- Credit Risk Scoring (Excel & R)
-
-B.A., Accounting (2017)
-
-Certifications
-- Tableau Desktop Certified (2023)
-- Alteryx Designer Core Certified (2023)
-
-Technical Skillset
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL (MySQL Workbench)
-- R (+Shiny) 
-- Tableau Desktop (+Prep)
-- Alteryx Designer
-- Microsoft Excel
-
-Work Experience
-Senior Data Analyst (Jan 2024 - Present)
-Data Analyst (Mar 2022 – Dec 2023)
-
-show_download: true
+show_download: false
 theme: jekyll-theme-minimal
