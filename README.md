@@ -21,6 +21,18 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 
 **B.A., Accounting (_2017_)**
 
+## Certifications
+**Tableau Desktop Certified (_2023_)**
+<br>**Alteryx Designer Core Certified (_2023_)**
+
+## Technical Skillset
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (MySQL Workbench)
+- R (+Shiny) 
+- Tableau Desktop (+Prep)
+- Alteryx Designer
+- Microsoft Excel
+
 ## Work Experience
 **Senior Data Analyst (_Jan 2024 - Present_)**
 <br>**Data Analyst (_Mar 2022 – Dec 2023_)**
