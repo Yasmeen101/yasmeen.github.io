@@ -19,7 +19,7 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 - Statistical Programming (R)
 - Credit Risk Scoring (Excel & R)
 
-<br>**B.A., Accounting (_2017_)**
+**B.A., Accounting (_2017_)**
 
 ## Work Experience
 **Senior Data Analyst (_Jan 2024 - Present_)**
