@@ -20,11 +20,11 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 - Credit Risk Scoring (Excel & R)
 
 **B.A., Accounting (_2017_)**
-<hr style="border:2px solid gray">
+<hr style="border:2px solid gray"></hr>
 ## Certifications
 - Tableau Desktop Certified (_2023_)
 - Alteryx Designer Core Certified (_2023_)
-<hr style="border:2px solid gray">
+<hr style="border:2px solid gray"></hr>
 ## Technical Skillset
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL (MySQL Workbench)
@@ -32,7 +32,7 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 - Tableau Desktop (+Prep)
 - Alteryx Designer
 - Microsoft Excel
-<hr style="border:2px solid gray">
+<hr style="border:2px solid gray"></hr>
 ## Work Experience
 **Senior Data Analyst (_Jan 2024 - Present_)**
 <br>**Data Analyst (_Mar 2022 – Dec 2023_)**
@@ -44,6 +44,6 @@ This portfolio details the projects I've pursued outside of work to broaden my k
 - Engaging with multiple teams across different time zones to continuously support data transformation activities such as data cleansing, wrangling and validation.
 - Leading teaming efforts as a teaming champion, dedicated to improving teamwork,bonding and collaboration.
 - Mentoring junior analysts to assist digital upskilling efforts across the wider team.
-<hr style="border:2px solid gray">
+<hr style="border:2px solid gray"></hr>
 ## Projects
 [Website](https://yasmeen-portfolio.squarespace.com/)
