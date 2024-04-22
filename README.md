@@ -10,7 +10,7 @@ Through my postgraduate studies, I have developed a great interest in the field 
 I am amazed by the rapid advancements in the Machine Learning field, which have already revolutionized our daily lives. It’s such a fascinating time and I am eager to contribute to this ever-changing landscape, aiming to make impactful innovations that benefit society as a whole.
 
 This portfolio details the projects I've pursued outside of work to broaden my knowledge within the Data Science and Machine Learning field. It serves as a space to document my ongoing learning journey, so I welcome any scrutiny and constructive feedback. Please don't hesitate to reach out to me using the contact form below.
-<hr style="border:2px solid gray">
+<hr style="border:2px solid gray"></hr>
 ## Education
 **PgCert., Operational Research, Applied Stats. and Financial Risk (_2023_)**
 - Statistics & Data Science (R)
