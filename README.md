@@ -12,7 +12,13 @@ I am amazed by the rapid advancements in the Machine Learning field, which have 
 This portfolio details the projects I've pursued outside of work to broaden my knowledge within the Data Science and Machine Learning field. It serves as a space to document my ongoing learning journey, so I welcome any scrutiny and constructive feedback. Please don't hesitate to reach out to me using the contact form below.
 
 ## Education
-PgCert., Operational Research, Applied Stats and Financial Risk (_2023_)
+PgCert., Operational Research, Applied Stats. and Financial Risk (_2023_)
+- Statistics & Data Science (R)
+- Computational Methods (Python)
+- Time Series Forecasting (R)
+- Statistical Programming (R)
+- Credit Risk Scoring (Excel & R)
+
 <br> B.A., Accounting (_2017_)
 
 ## Work Experience
